@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class omg {
+public class MenuDriven {
 
     static void square(int num) {
         System.out.println("Square = " + (num * num));
